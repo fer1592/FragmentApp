@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App de Fragmento</string>
+    <string name="open_fragment">Abrir Fragmento</string>
+    <string name="activity_button">Abrir Activity</string>
+    <string name="my_fragment_string">Alto Fragmento</string>
+    <string name="activity_string">High Activity</string>
+    <string name="title_activity_second">Segunda Actividad</string>
+    <string name="first_fragment_label">Primer Fragmento</string>
+    <string name="second_fragment_label">Segundo Fragmento</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+</resources>
